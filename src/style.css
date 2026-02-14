@@ -1,6 +1,6 @@
 @import 'https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,500&display=swap';
 
-:root{
+:root {
   --primary-text-color: #00acdc;
 }
 
@@ -28,9 +28,10 @@ header {
   padding: 0 50px;
 }
 
-img {
+header img {
   width: 40px;
   height: 40px;
+  margin-top: 2px;
 }
 
 .menu {
